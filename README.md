@@ -2,5 +2,5 @@
 - 👀 I’m interested in cybersecurity and Python development.
 - 🌱 I’m currently learning web pentesting and enhancing my skills in both cybersecurity and Python.
 - 🔧 I’m working on developing security-focused applications and Python projects.
-- 📫 How to reach me: You can contact me via GitHub or LinkedIn.
+- 📫 - 📫 You can reach me via [GitHub](https://github.com/MiracKayikci) or [LinkedIn](https://www.linkedin.com/in/mirackayikci10101/).
 - 😄 Pronouns: He/Him
